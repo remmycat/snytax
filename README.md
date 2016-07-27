@@ -1,7 +1,7 @@
 # snytax
-i hate syntax highlighters
-i really do
-repo name is not a typo
+i hate syntax highlighters  
+i really do  
+repo name is not a typo  
 
 
 this is an attempt to create a syntax highlighting theme for atom that i find okay. i will base it on a style guide i created for university math scripts, which aren't at all like code. but i had a few ideas doing that which i want to use.
@@ -50,13 +50,13 @@ i thought of the following 4 groups and colours:
 ##screenshot
 this is my progress so far. probably looks shitty in other languages and is still bugged i guess.  
 the parentheses after if/while/etc shouldn't be red, but there was nothing i could do about that for now.  
-![Screenshot of Snytax](/screenshot.jpg?raw=true "screenshot of snytax")
+![Screenshot of Snytax](/screenshot.png?raw=true "screenshot of snytax")
 
 ## FAQBM
 (frequently asked questions by myself)
 
 ### when will you start actually making the thing?
-~~idk. maybe tomorrow. or the day after. or next week. maybe not at all, if that's the case just feel inspired and fork this or do your own. i don't care.~~
+~~idk. maybe tomorrow. or the day after. or next week. maybe not at all, if that's the case just feel inspired and fork this or do your own. i don't care.~~  
 ha, i already started!
 ### why are you using UK english?
 idk. it felt appropriate for somehow ranting about shitty syntax highlighters.
