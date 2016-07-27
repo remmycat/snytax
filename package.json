@@ -1,7 +1,7 @@
 {
   "name": "snytax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "i hate destructuring rainbow-syntax-themes so i made an ideal minimal one for me",
   "keywords": [
     "snytax",
