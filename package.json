@@ -1,0 +1,16 @@
+{
+  "name": "snytax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "i hate destructuring rainbow-syntax-themes so i made an ideal minimal one for me",
+  "keywords": [
+    "snytax",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/remhume/snytax",
+  "license": "Unlicense",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
