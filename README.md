@@ -50,7 +50,7 @@ i thought of the following 4 groups and colours:
 ##screenshot
 this is my progress so far. probably looks shitty in other languages and is still bugged i guess.  
 the parentheses after if/while/etc shouldn't be red, but there was nothing i could do about that for now.  
-![Screenshot of Snytax](/screenshot.png?raw=true "screenshot of snytax")
+![Screenshot of Snytax](https://github.com/remhume/snytax/raw/master/screenshot.png "screenshot of snytax")
 
 ## FAQBM
 (frequently asked questions by myself)
